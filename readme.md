@@ -13,6 +13,17 @@ You can view the prototype of the EVM in **Figma**:
 
 ### [@> Click here to view the prototype](https://www.figma.com/board/EG6IMzdZz5FbfnN8VQzosP/EVM?node-id=0-1&p=f&t=LXmNEKaRzceXCJSJ-0)
 
+## Connect with Me
+
+<p>
+    <a href="https://www.linkedin.com/in/alex-gray-0xff/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" style="margin-right: 5px;">
+    </a>
+    <a href="https://x.com/0xKoiner" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" alt="Twitter">
+    </a>
+</p>
+
 ## Inspired
 
 - by [Soliditylang Docs](https://docs.soliditylang.org/en/v0.8.28/) && [Takenobu T.](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) && [@deliriusz](https://www.youtube.com/@deliriusz)
