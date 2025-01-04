@@ -9,8 +9,9 @@ This repository is dedicated to exploring the **fundamentals of the Ethereum Vir
 
 ## Figma Prototype
 
-You can view the prototype of the EVM in **Figma**:  
-[@> Click here to view the prototype](https://www.figma.com/board/EG6IMzdZz5FbfnN8VQzosP/EVM?node-id=0-1&p=f&t=LXmNEKaRzceXCJSJ-0)
+You can view the prototype of the EVM in **Figma**:
+
+### [@> Click here to view the prototype](https://www.figma.com/board/EG6IMzdZz5FbfnN8VQzosP/EVM?node-id=0-1&p=f&t=LXmNEKaRzceXCJSJ-0)
 
 ## Inspired
 
